@@ -1,0 +1,10 @@
+# Found a nice resource for this as well
+# https://github.com/github/gitignore (templates per languages)
+# Opting to keep it simple since I only knew to do these two
+
+__pycache__/
+venv/
+.env
+.venv
+.idea/
+.idea
